@@ -3,3 +3,10 @@ npm i
 npm run dev
 npm run build
 npm run preview
+
+
+git init
+git add.
+git commit -m "algo"
+git remote add origin https://github.com/citoyens/react-rick-and-morty.git
+git push origin main
