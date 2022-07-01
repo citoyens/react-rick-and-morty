@@ -10,3 +10,5 @@ git add.
 git commit -m "algo"
 git remote add origin https://github.com/citoyens/react-rick-and-morty.git
 git push origin main
+
+npm i gh-pages
